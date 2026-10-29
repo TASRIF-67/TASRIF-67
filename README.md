@@ -5,6 +5,7 @@
 ### Software Developer | Computer Science Graduate | AI/ML & Systems Enthusiast
 
 **B.Sc. in Computer Science & Engineering, BRAC University**
+
 **CGPA: 3.97 / 4.00**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://imam-hasan.vercel.app/)
@@ -17,7 +18,7 @@
 
 ### About Me
 
-I build full-stack applications, backend services, and developer tools, with a strong interest in **AI/ML, system internals, and computer science education**. I enjoy working across the stack, from designing APIs and data models to tracing runtime behavior and making complex concepts easier to understand.
+I like building things that work end to end, whether that's a full-stack application, a backend service, or a developer tool. I'm interested in AI/ML, how systems behave under the hood, and making computer science easier to understand. I enjoy working across the stack, from designing APIs and data models to tracing runtime behavior.
 
 - **Education:** B.Sc. in CSE at BRAC University, CGPA 3.97 / 4.00
 - **Teaching experience:** Former Student Tutor for CSE220 (Data Structures) at BRAC University
