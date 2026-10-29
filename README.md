@@ -4,11 +4,11 @@
 
 ### Software Developer · Computer Science Graduate · AI/ML & Systems Enthusiast
 
-**B.Sc. in Computer Science & Engineering — BRAC University**  
+**B.Sc. in Computer Science & Engineering, BRAC University**  
 **CGPA: 3.97 / 4.00**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://imam-hasan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-hasan-tasri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imam-hasan-tasrif-38501b274/)
 [![GitHub](https://img.shields.io/badge/GitHub-TASRIF--67-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TASRIF-67)
 
 </div>
